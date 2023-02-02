@@ -3,8 +3,8 @@
 
 - Created Repo
 - Added STEPS.md
-- Added Meme to main
-- Made bug-fix branch
+- Created bug-fix branch
+- Added meme to bug-fix
+- Updated STEPS for next commit
 - Made bug-fix-experimental branch
-
-Fuddling with this to cause an error
+- Fixed error in pull request
