@@ -1,4 +1,5 @@
 # Git Graph
  Repo for Git Graph assignment
 
-Just fuddling around
+CSCI 3323 - Spring 2023
+
