@@ -8,3 +8,5 @@
 - Updated STEPS for next commit
 - Made bug-fix-experimental branch
 - Fixed error in pull request
+- Pushed bug-fix again, not sure which one
+because of visual glitch in GitHub
