@@ -3,9 +3,16 @@
 
 - Created Repo
 - Added STEPS.md
-- Created Branch
-- Added meme to Branch-1
-- Updated STEPS for next commit
 - Pushed main again, fixing a weird visual
 glitch with the second branch
-Fuddling to hopefully make a pull request possible
+- Created bug-fix branch
+- Added meme to bug-fix
+- Updated STEPS for next commit
+- Made bug-fix-experimental branch
+- Fixed error in pull request, merged bug-fix and main
+- Pushed bug-fix-experimental for the second time
+- Pushed bug-fix-experimental for the third time
+- Pushed bug-fix again, not sure which one
+because of visual glitch in GitHub
+- Pushed bug-fix for the sixth time
+- Merged bug-fix and bug-fix-experimental, fixed error
